@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-7aa2f7?style=for-the-badge&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/🎓_B.Tech_CSE-bb9af7?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/⚡_500%2B_DSA_Grind-7dcfff?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/⚡_1000%2B_DSA_Grind-7dcfff?style=for-the-badge&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/📍_India-e0af68?style=for-the-badge&labelColor=0f0c29"/>
 
 </div>
@@ -48,7 +48,7 @@ Currently:   Advanced DSA · System Design · AI Agents · LLM Apps
 **🎯 Milestones I'm chasing this year**
 
 <img src="https://img.shields.io/badge/Crack_SDE_Internship-0f0c29?style=for-the-badge&color=7aa2f7"/>
-<img src="https://img.shields.io/badge/500%2B_DSA_Problems-0f0c29?style=for-the-badge&color=bb9af7"/><br/>
+<img src="https://img.shields.io/badge/1000%2B_DSA_Problems-0f0c29?style=for-the-badge&color=bb9af7"/><br/>
 <img src="https://img.shields.io/badge/Production_Level_Projects-0f0c29?style=for-the-badge&color=7dcfff"/>
 <img src="https://img.shields.io/badge/Master_MERN_Stack-0f0c29?style=for-the-badge&color=e0af68"/><br/>
 <img src="https://img.shields.io/badge/Learn_Cloud_%26_DevOps-0f0c29?style=for-the-badge&color=9ece6a"/>
