@@ -1,151 +1,210 @@
-<h1 align="center">Hi 👋, I'm Naveen Kumar (Jaat)</h1>
-<h3 align="center">B.Tech CS Student | Full-Stack & AI/ML Developer | DSA Enthusiast</h3>
+<div align="center">
+
+# Hi 👋, I'm Naveen Chaudhary
+
+### 💻 Full Stack Developer • AI/ML Enthusiast • Java Developer • DSA Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer;Java+%7C+MERN+Stack+%7C+Node.js;Building+AI-Powered+Applications;Passionate+about+DSA+%26+Problem+Solving;Open+to+SDE+Internship+Opportunities" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20My%20GitHub&fontSize=45&fontAlignY=40&animation=fadeIn&color=gradient"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 B.Tech Computer Science Student
+
+🏫 Galgotias University
+
+💻 Full Stack Developer (MERN)
+
+🤖 AI/ML Enthusiast
+
+☕ Java Developer
+
+🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- System Design
+- Backend Engineering
+- AI Agents
+- LLM Applications
+
+🎯 2026 Goals
+
+- ✅ Crack SDE Internship
+- ✅ 500+ DSA Problems
+- ✅ Build Production-Level Projects
+- ✅ Master MERN Stack
+- ✅ Learn Cloud & DevOps
+
+📫 Email
+
+**chaudharynaveen377@gmail.com**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+Node.js+%7C+Java;Building+AI-Powered+Applications;Solving+DSA+Problems+Daily;Open+to+SDE+Intern+Opportunities" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveen-kumar-2612282a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:chaudharynaveen377@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/chaudharynaveen377" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/chaudharynaveen377">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaudharynaveen377&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="chaudharynaveen377" />
+<a href="https://linkedin.com/in/naveen-kumar-2612282a0">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:chaudharynaveen377@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-### 🚀 About Me
+# 💻 Tech Stack
 
-- 🎓 B.Tech Computer Science student at **Galgotias University**
-- 💻 Building a strong portfolio of **full-stack & AI/ML** projects
-- 🔭 Currently working on a **Habit Tracker API** (Node.js, Express, MongoDB, JWT)
-- 🌱 Deep-diving into **DSA in Java** — arrays, strings, recursion, DP, graphs
-- 🎯 Actively preparing for **SDE Intern** roles
-- 📫 Reach me at **chaudharynaveen377@gmail.com**
-- ⚡ Fun fact: I learn best by building — code first, refine after review
+<div align="center">
 
----
+### Languages
 
-### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css,mysql"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,figma,vscode,postman&perline=7" />
-</p>
+### Frontend
 
-**Languages:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
 
-**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+### Backend
 
-**Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 
-**Database:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Database
 
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma"/>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🩺 AI Resume Analyzer | Resume scoring using AI, OpenAI APIs, ML & NLP |
+| 🤖 Autonomous Coding Agent | AI agent that plans, writes, debugs and executes code |
+| 📚 Offline Learning Companion | Offline AI learning app powered by Ollama |
+| ✅ Habit Tracker API | Secure REST API using JWT authentication |
+| 🛒 ShopEase | Complete MERN E-Commerce Platform |
+| 💼 Job Portal | Full Stack Job Portal for Recruiters & Candidates |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaudharynaveen377&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharynaveen377&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharynaveen377&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaudharynaveen377&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chaudharynaveen377&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# ⚡ Coding Profiles
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaudharynaveen377&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharynaveen377&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharynaveen377&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaudharynaveen377&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaudharynaveen377&theme=tokyo-night&hide_border=true" />
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
 </p>
 
 ---
 
-### 🚧 Featured Projects
+# 📚 Currently Learning
 
-<table>
-<tr>
-<td width="50%">
+```text
+✔ Data Structures & Algorithms
 
-**🩺 AI Resume Analyzer**
-React · FastAPI · MongoDB · OpenAI · Scikit-learn · SpaCy
-Final-year project analyzing resumes with ML-powered scoring & feedback.
+✔ Backend Engineering
 
-</td>
-<td width="50%">
+✔ AI Agents
 
-**🤖 Autonomous Coding Agent**
-React · FastAPI · Llama 3 · Docker
-Agentic plan → code → test → fix loop with sandboxed execution.
+✔ LLM Applications
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+✔ System Design
 
-**📚 Offline Adaptive Learning Companion**
-React · Vite · Tailwind · Zustand · Ollama · Dexie.js · PWA
-Fully offline adaptive learning app powered by local LLMs.
-
-</td>
-<td width="50%">
-
-**✅ Habit Tracker API**
-Node.js · Express · MongoDB · JWT
-REST API with secure auth, habit logging & streak tracking. *(in progress)*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🛒 ShopEase**
-React · Node.js · Express · MongoDB · Stripe
-Full-featured e-commerce platform with payment integration.
-
-</td>
-<td width="50%">
-
-**💼 Job Portal**
-MERN Stack
-Platform connecting job seekers with recruiters.
-
-</td>
-</tr>
-</table>
+✔ Docker & Cloud
+```
 
 ---
 
-### 📌 Currently Learning
+# 💡 Quote
 
-`Data Structures & Algorithms (Java)` `System Design Basics` `Advanced Backend with Node.js`
+<div align="center">
+
+> **"First, solve the problem. Then, write the code." — John Johnson**
+
+</div>
 
 ---
 
-### 📫 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveen-kumar-2612282a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:chaudharynaveen377@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=chaudharynaveen377&label=Profile%20Views&style=for-the-badge&color=blue"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e293b&height=100&section=footer" />
-</p>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</div>
