@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/chaudharynaveen377/chaudharynaveen377/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 <!--END_SECTION:snake-->
 
-<sub>⚙️ One-time 2-min setup needed — instructions in <code>SNAKE_SETUP.md</code> below. Once live, this snake literally eats your contribution graph every day, auto-updating forever.</sub>
+
 
 </div>
 
@@ -41,9 +41,8 @@
 Name:        Naveen Chaudhary (Jaat)
 Role:        Full Stack Developer (MERN) · AI/ML Enthusiast
 Education:   B.Tech CSE, Galgotias University
-Languages:   Java · JavaScript · Python · C/C++
+Languages:   Java · JavaScript · Python · 
 Currently:   Advanced DSA · System Design · AI Agents · LLM Apps
-Goal 2026:   Crack an SDE Internship 🎯
 ```
 
 **🎯 Milestones I'm chasing this year**
